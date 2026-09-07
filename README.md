@@ -1,4 +1,4 @@
-# Inmunobio
+# Laboratorio
 
 ## Descripción
 
